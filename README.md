@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mian-yann-axel-adingra-1ba74b436/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://noteo.TON-LIEN"><img src="https://img.shields.io/badge/Noteo_en_ligne-16A34A?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://noteo-v1-7.vercel.app/login"><img src="https://img.shields.io/badge/Noteo_en_ligne-16A34A?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
