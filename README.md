@@ -68,7 +68,7 @@ Je ne cache pas mes bugs, je les documente :
 ## 📈 Activité
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&hide_border=true&theme=tokyonight">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adgyn-coding&layout=compact&hide_border=true&theme=tokyonight">
 </p>
 
 ---
